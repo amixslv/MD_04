@@ -1,1 +1,3 @@
 # MD_04
+Uzdevums 4: Kosmosa tēmas infografika
+Izveidojiet HTML mājaslapu ar kosmosa tēmas infografiku. Lapā iekļaujiet virsrakstu "Saules sistēmas planētas" un informāciju par 4 planētām. Katrai planētai izveidojiet sekciju ar planētas nosaukumu, attēlu (var būt vienkāršs aplis ar CSS) un 2-3 interesantiem faktiem. Izmantojiet CSS, lai veidotu pievilcīgu un informatīvu izklājumu. Piešķiriet katrai planētai unikālu fona krāsu. Izmantojiet flexbox, lai organizētu planētu informāciju. Nodrošiniet, ka lapa ir labi lasāma gan uz datoriem, gan mobilajām ierīcēm, izmantojot media queries. Pievērsiet uzmanību krāsu kontrastam un teksta lasāmībai.
